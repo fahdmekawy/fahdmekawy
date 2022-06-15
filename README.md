@@ -1,9 +1,7 @@
-### Hello, I am Fahd Mekawy 👋
+<h1 align="center">Hi 👋, I'm Fahd Mekawy</h1>
+<h3 align="center">A passionate Flutter Developer from Egypt </h3>
 
-Here are some ideas to get you started:
-
-<!-- - 🔭 I’m currently working on ... -->
-- 💬 Ask me about Flutter 
+- 💬 Ask me about **Flutter,Dart** 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fahdmekawy/)[Twitter - @fahd_mekawy] (https://twitter.com/fahd_mekawy)
 - 😄 Pronouns: He/His
 
