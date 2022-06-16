@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Fahd Mekawy</h1>
-<h3 align="center">A Flutter Developer from Egypt </h3>
+<h1 align="left">Hello, I'm Fahd Mekawy</h1>
+<h3 align="left">A Flutter Developer from Egypt </h3>
 
  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="400" />
 
