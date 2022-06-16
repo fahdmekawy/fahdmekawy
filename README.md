@@ -1,7 +1,7 @@
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 <h1 align="center">Hi 👋, I'm Fahd Mekawy</h1>
 <h3 align="center">A passionate Flutter Developer from Egypt </h3>
+
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 💬 Ask me about **Flutter,Dart** 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fahdmekawy/)   |   [Twitter](https://twitter.com/fahd_mekawy)
