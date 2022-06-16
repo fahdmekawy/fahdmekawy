@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fahd Mekawy</h1>
-<h3 align="center">A passionate Flutter Developer from Egypt </h3>
+<h1 align="center">Hello, I'm Fahd Mekawy</h1>
+<h3 align="center">A Flutter Developer from Egypt </h3>
 
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="400" />
 
 - 💬 Ask me about **Flutter,Dart** 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fahdmekawy/)   |   [Twitter](https://twitter.com/fahd_mekawy)
