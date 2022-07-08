@@ -4,7 +4,7 @@
  <img align="center" alt="GIF" src="https://github.com/fahdmekawy/fahdmekawy/blob/main/code.gif?raw=true" width="700" height="400" />
 
 - 💬 Ask me about **Flutter,Dart** 
-- 💼 FLutter developer at [SQUADIO](https://www.linkedin.com/in/fahdmekawy/)
+- 💼 FLutter developer at [SQUADIO](https://squadio.com/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fahdmekawy/)   |   [Twitter](https://twitter.com/fahd_mekawy)
 - 😄 Pronouns: He/His
 
