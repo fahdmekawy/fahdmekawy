@@ -1,9 +1,10 @@
 <h1 align="left">Hello, I'm Fahd Mekawy</h1>
-<h3 align="left"> Flutter Developer at [SQUADIO](https://squadio.com/) </h3>
+<h3 align="left"> Software developer from Egypt </h3>
 
  <img align="center" alt="GIF" src="https://github.com/fahdmekawy/fahdmekawy/blob/main/code.gif?raw=true" width="700" height="400" />
 
 - 💬 Ask me about **Flutter,Dart** 
+- 💼 FLutter developer at [SQUADIO](https://www.linkedin.com/in/fahdmekawy/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fahdmekawy/)   |   [Twitter](https://twitter.com/fahd_mekawy)
 - 😄 Pronouns: He/His
 
