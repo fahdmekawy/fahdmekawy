@@ -6,7 +6,6 @@
 - 💬 Ask me about **Flutter,Dart** 
 - 💼 FLutter developer at [SQUADIO](https://squadio.com/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fahdmekawy/)   |   [Twitter](https://twitter.com/fahd_mekawy)
-- 😄 Pronouns: He/His
 
 | <a href="https://github.com/fahdmekawy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fahdmekawy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/fahdmekawy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahdmekawy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
