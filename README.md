@@ -49,18 +49,6 @@ an outsourcing delivery app for business, it allows businesses to focus on their
 ---------------------------------------------------- -->
 
 
-### After11
-
-An Application that is a request for meals and provides some features such delivery and electronic payment and determining the closest restaurants.<br />
-
-
-<p><a href="https://play.google.com/store/apps/details?id=com.after11.online.food_delivery_app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
-
-<hr>
-
-<!-- - anroid : https://play.google.com/store/apps/details?id=com.after11.online.food_delivery_app
----------------------------------------------------- -->
-
 
 ### Nubi
 
